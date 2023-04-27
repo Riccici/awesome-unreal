@@ -13,6 +13,8 @@ this project inspired by [Awesome React](https://github.com/enaqx/awesome-react)
 - [Valley of the Ancient](https://www.unrealengine.com/marketplace/en-US/product/ancient-game-01)
 - [Action RPG](https://www.unrealengine.com/marketplace/en-US/product/action-rpg-01)
 
+#### Official Tutorials
+- [Enhanced Input Binding with Gameplay Tags C++](https://dev.epicgames.com/community/learning/tutorials/aqrD/unreal-engine-enhanced-input-binding-with-gameplay-tags-c)
 
 #### Dev Community Resource
 - [Solar System Simulator/Generator](https://forums.unrealengine.com/t/solar-system-simulator-generator/62571?u=riccici)
